@@ -1,6 +1,0 @@
-name: house_price_env
-channels:
-  - defaults
-dependencies:
-  - python=3.10
-prefix: C:\Users\Kri8530\anaconda3\envs\house_price_env
